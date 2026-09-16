@@ -1,4 +1,6 @@
 # Essays
+[01 Intro](https://github.com/ooooooooooam/essays/blob/main/random/01%20Intro.md)
+
 Some favorites below
 
 Books
