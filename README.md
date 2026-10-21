@@ -1,6 +1,5 @@
 # Essays
 [01 Intro](https://github.com/ooooooooooam/essays/blob/main/random/01%20Intro.md)
-
 [02 Ramblings](https://github.com/ooooooooooam/essays/blob/main/random/02%20Ramblings.md)
 
 
