@@ -1,6 +1,7 @@
 # Essays
 [01 Intro](https://github.com/ooooooooooam/essays/blob/main/random/01%20Intro.md)
 [02 Ramblings](https://github.com/ooooooooooam/essays/blob/main/random/02%20Ramblings.md)
+[03 Startups](https://github.com/ooooooooooam/essays/blob/main/random/03%20Startups.md)
 
 
 Some favorites below
