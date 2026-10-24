@@ -3,6 +3,8 @@
 [02 Ramblings](https://github.com/ooooooooooam/essays/blob/main/random/02%20Ramblings.md)
 [03 Startups](https://github.com/ooooooooooam/essays/blob/main/random/03%20Startups.md)
 [04 Risk](https://github.com/ooooooooooam/essays/blob/main/random/04%20Risk.md)
+[05 Vision Quest](https://github.com/ooooooooooam/essays/blob/main/random/05%20Vision%20Quest.md)
+
 
 
 
