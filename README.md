@@ -9,7 +9,7 @@
 [08 Progress](https://github.com/ooooooooooam/essays/blob/main/random/08%20Progress.md)
 [09 Parents](https://github.com/ooooooooooam/essays/blob/main/random/09%20Parents.md)
 [10 Learnings So Far](https://github.com/ooooooooooam/essays/blob/main/random/10%20Learnings%20So%20Far.md)
-
+[11 Lectures](https://github.com/ooooooooooam/essays/blob/main/random/11%20Lectures.md)
 
 
 
