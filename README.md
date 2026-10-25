@@ -11,6 +11,9 @@
 [10 Learnings So Far](https://github.com/ooooooooooam/essays/blob/main/random/10%20Learnings%20So%20Far.md)
 [11 Lectures](https://github.com/ooooooooooam/essays/blob/main/random/11%20Lectures.md)
 [12 Music](https://github.com/ooooooooooam/essays/blob/main/random/12%20Music.md)
+[13 Abundance](https://github.com/ooooooooooam/essays/blob/main/random/13%20Abundance.md)
+[14 Software](https://github.com/ooooooooooam/essays/blob/main/random/14%20Software.md)
+
 
 
 
