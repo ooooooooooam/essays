@@ -12,7 +12,7 @@
 [11 Music](https://github.com/ooooooooooam/essays/blob/main/random/11%20Music.md)
 [12 Abundance](https://github.com/ooooooooooam/essays/blob/main/random/12%20Abundance.md)
 [13 Software](https://github.com/ooooooooooam/essays/blob/main/random/13%20Software.md)
-
+[14 Real Estate and AI](https://github.com/ooooooooooam/essays/blob/main/random/14%20Real%20Estate%20and%20AI.md)
 
 
 
